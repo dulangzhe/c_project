@@ -2,7 +2,7 @@
 
 void dev()
 {
-    printf("开发中...!\n");
+    printf("开发完成!\n");
 }
 
 int main(int argc, char *argv[])
